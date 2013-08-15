@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Pengwll's Blog]]></title>
-  <link href="http://pengwll.github.io/atom.xml" rel="self"/>
-  <link href="http://pengwll.github.io/"/>
-  <updated>2013-07-26T23:14:34+08:00</updated>
-  <id>http://pengwll.github.io/</id>
+  <link href="http://pengwll.com/atom.xml" rel="self"/>
+  <link href="http://pengwll.com/"/>
+  <updated>2013-08-15T23:41:05+08:00</updated>
+  <id>http://pengwll.com/</id>
   <author>
     <name><![CDATA[peng]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hello world]]></title>
-    <link href="http://pengwll.github.io/blog/2013/07/24/hello-world/"/>
+    <link href="http://pengwll.com/blog/2013/07/24/hello-world/"/>
     <updated>2013-07-24T22:48:00+08:00</updated>
-    <id>http://pengwll.github.io/blog/2013/07/24/hello-world</id>
+    <id>http://pengwll.com/blog/2013/07/24/hello-world</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
