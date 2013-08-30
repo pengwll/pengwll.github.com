@@ -9,8 +9,7 @@
   <meta name="author" content="peng">
 
   
-  <meta name="description" content="
-">
+  <meta name="description" content="Blog Archives Recent Posts GitHub Repos Status updating&#8230; $(document).ready(function(){ if (!window.jXHR){ var jxhr = document.createElement(' &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -67,42 +66,6 @@
       <div class="blog-index">
   
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/07/24/hello-world/">Hello World</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-07-24T22:48:00+08:00" pubdate data-updated="true">Jul 24<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content">
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
     <a href="/blog/archives">Blog Archives</a>
@@ -115,10 +78,6 @@
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
-      <li class="post">
-        <a href="/blog/2013/07/24/hello-world/">Hello World</a>
-      </li>
-    
   </ul>
 </section>
 
@@ -127,8 +86,6 @@
   <ul id="gh_repos">
     <li class="loading">Status updating&#8230;</li>
   </ul>
-  
-  <a href="https://github.com/pengwll">@pengwll</a> on GitHub
   
   <script type="text/javascript">
     $(document).ready(function(){
@@ -143,7 +100,7 @@
         github.showRepos({
             user: 'pengwll',
             count: 0,
-            skip_forks: true,
+            skip_forks: false,
             target: '#gh_repos'
         });
     });
