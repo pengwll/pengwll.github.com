@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://pengwll.com/sitemap.xml 
